@@ -196,7 +196,7 @@ private fun RaceControls(
     }
 }
 
-@Preview
+@Preview(showBackground = true)
 @Composable
 fun RaceTrackerAppPreview() {
     MaterialTheme {
